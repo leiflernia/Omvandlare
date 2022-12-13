@@ -141,6 +141,7 @@
 	.volym {
 		background-color: rgba(154, 175, 250, 0.822);
 		padding: 10px;
+		padding-top: 30px;
 	}
 	.volym-form {
 		display: flex;
@@ -172,6 +173,7 @@
 	.vikt {
 		background-color: rgb(165, 247, 203);
 		padding: 10px;
+		padding-top: 20px;
 	}
 
 	.vikt-form {
