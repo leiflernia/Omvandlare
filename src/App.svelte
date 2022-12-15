@@ -135,7 +135,7 @@
 			/>
 		</div>
 		<div class="tesked">
-			<p>Matsked (tsk)</p>
+			<p>Tesked (tsk)</p>
 
 			<input
 				value={tsk}
